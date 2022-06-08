@@ -1,3 +1,4 @@
 - My project for Wro[https://wro-association.org/].
 - Registration done for competition.
 - Project Name: AlzHel( Alzeihmer Helper )
+- Project equipments done
