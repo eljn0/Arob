@@ -30,4 +30,22 @@ devices. At the end of the day, room of patient's lights are going to turned off
 sleeping music playlists are going to play in the room for having a good sleep
 for patient. Controllable room makes some more adventages for treatment
 too. We can evertime watch smart camera via our alzheimer robot. If its there
-problem about patient, nurse can immediately interfence
+problem about patient, nurse can immediately interfence.
+4. Music: music and retro audios are important in treatment for reminding
+patient's past life. Also in our robot, and our treatment program we attracted
+to usage of music in alzheimer's treatment. At the developer options of robot
+we have the area that it is possible to selection of music taste and musics that
+going to be played for daily ruitines. Musics are often depend on patients, and
+ussualy musics are choosing by family. The choosed musics had to be the
+patient's favorite musics in his past life. This musics are going to remind the
+past days, actions.
+5. Pre-social, alternative projects: also we have alternative projects for people
+who have dementia and alzheimer. First alternative project is alzheimer's
+robot pet. This alternative project is designed for alzheimer's parks and presocialing alzheimer people to keep their minds active. In the project we going
+to have location tracker, iron cane, and smart asistant module. The main
+cause of this alternative project is to preparing alzheimer people to social life.
+Second project is machine learning based alzheimer prediction code, robot.
+This robot is designed only for hospitals, health medication programs, and self
+care of yourself.
+NYU med. inc 2022
+Authors: Eljan Guluyev, Narges Razavian etc
