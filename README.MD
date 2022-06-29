@@ -47,5 +47,7 @@ cause of this alternative project is to preparing alzheimer people to social lif
 Second project is machine learning based alzheimer prediction code, robot.
 This robot is designed only for hospitals, health medication programs, and self
 care of yourself.
+
 NYU med. inc 2022
+
 Authors: Eljan Guluyev, Narges Razavian etc
