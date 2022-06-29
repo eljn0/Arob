@@ -48,6 +48,6 @@ Second project is machine learning based alzheimer prediction code, robot.
 This robot is designed only for hospitals, health medication programs, and self
 care of yourself.
 
-NYU med. inc 2022
+<p align="right">NYU med. inc 2022</p>
 
-Authors: Eljan Guluyev, Narges Razavian etc
+<p align="right">Authors: Eljan Guluyev, Narges Razavian etc</p>
