@@ -2,7 +2,7 @@
 - Registration done for competition.
 - Project Name: AlzHel( Alzeihmer Helper )
 - Project equipments done
-<p="align-center"> Our Robot's  Effects on Treatment</p>
+# <p align="center"> Our Treatment robot's effects on Alzheimer's treatment</p>
 New York Langone health university and
 Azhel technologies present
 Official Alzheimer's treatment robot skills,and effects on
